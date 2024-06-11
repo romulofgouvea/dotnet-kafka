@@ -1,0 +1,6 @@
+@DotnetKafka.Producer_HostAddress = http://localhost:5003
+
+GET {{DotnetKafka.Producer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
